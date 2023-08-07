@@ -1,3 +1,10 @@
+
+<div align="center" dir="auto"> 
+
+## Projeto Destaque na <a href="https://www.youtube.com/watch?v=YbDP4y11n4c&t=4455s" target="_blank"> **Mostra de Projetos PUC Minas ADS.**</a>  
+
+ </div>
+
 <div align="center" dir="auto"> 
 
 
